@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚧 I’m currently working on Cloud and DevOps projects using AWS, Docker, Kubernetes, Jenkins, and Terraform.<br><br>👯 I’m looking to collaborate on cloud infrastructure, CI/CD automation, and DevOps-focused projects.<br><br>🤝 I’m looking for support with advanced Kubernetes concepts, Terraform automation, and real-time cloud deployment strategies.<br><br>🌱 I’m currently learning AWS cloud architecture, Kubernetes orchestration, and Infrastructure as Code using Terraform.<br><br>💬 Ask me about AWS, DevOps, Docker, Kubernetes, CI/CD pipelines, and Linux administration.<br><br>⚡ Fun fact: I enjoy building scalable cloud-native applications and automating workflows to make systems more efficient and reliable.<br>
+🚧 I’m currently working on Cloud and DevOps projects using AWS, Docker, Kubernetes, Jenkins, and Terraform.<br>👯 I’m looking to collaborate on cloud infrastructure, CI/CD automation, and DevOps-focused projects.<br>🤝 I’m looking for support with advanced Kubernetes concepts, Terraform automation, and real-time cloud deployment strategies.<br>🌱 I’m currently learning AWS cloud architecture, Kubernetes orchestration, and Infrastructure as Code using Terraform.<br>💬 Ask me about AWS, DevOps, Docker, Kubernetes, CI/CD pipelines, and Linux administration.<br>⚡ Fun fact: I enjoy building scalable cloud-native applications and automating workflows to make systems more efficient and reliable.<br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### ⚙️ DevOps & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -31,8 +30,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats:
@@ -40,7 +39,7 @@
 ![](https://streak-stats.demolab.com/?user=Korepalli-Ravikumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Korepalli-Ravikumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 ![](https://github-profile-trophy.vercel.app/?username=Korepalli-Ravikumar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
